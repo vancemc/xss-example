@@ -5,3 +5,4 @@ Jinja2==2.11.3
 MarkupSafe==2.0.1
 peewee==3.3.4
 Werkzeug==0.15.5
+psycopg2-binary
